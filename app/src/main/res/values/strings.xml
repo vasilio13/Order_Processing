@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Order Processing</string>
+    <string name="button_add">Add</string>
+    <string name="button_photo">Photo</string>
+</resources>
